@@ -10,12 +10,12 @@
 <body>
 <div id="wrapper">
     <div id="header">
-        <img alt="Изображение" src="images/Header.png"/>
+        <img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Header.png"/>
     </div>
     <div id="content">
         <div id="nav" >
             <ul>
-                <li><a href="index.html"><img alt="Изображение" src="images/Logo.jpg"/></a></li>
+                <li><a href="index.html"><img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Logo.jpg"/></a></li>
                 <li><a href="Ghibili.html">Ghibli</a></li>
                 <li><a href="Quattroporte.html">Quattroporte</a></li>
                 <li><a href="GranTurismo.html">GranTurismo</a></li>
@@ -25,49 +25,49 @@
         <div id="main">
           <table>
               <tr >
-                <td id="main_title"  colspan="3"><h1>Главная</h1></td>
+                <td id="main_title"  colspan="3"><h1>Р“Р»Р°РІРЅР°СЏ</h1></td>
               </tr>
               <tr>
                 <td class="small_card" >
-                 <img alt="Изображение" src="images/Ghibli.jpg"/>
+                 <img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Ghibli.jpg"/>
                     <div class="content">
-                    <small>Бизнес класс</small>
+                    <small>Р‘РёР·РЅРµСЃ РєР»Р°СЃСЃ</small>
                     <h2>Ghibli</h2>
-                    <p>Maserati Ghibli III — седан бизнес-класса итальянской компании Maserati, который поступил в продажу во второй половине 2013</p>
-                    <a href="Ghibili.html">Перейти</a>
+                    <p>Maserati Ghibli III вЂ” СЃРµРґР°РЅ Р±РёР·РЅРµСЃ-РєР»Р°СЃСЃР° РёС‚Р°Р»СЊСЏРЅСЃРєРѕР№ РєРѕРјРїР°РЅРёРё Maserati, РєРѕС‚РѕСЂС‹Р№ РїРѕСЃС‚СѓРїРёР» РІ РїСЂРѕРґР°Р¶Сѓ РІРѕ РІС‚РѕСЂРѕР№ РїРѕР»РѕРІРёРЅРµ 2013</p>
+                    <a href="Ghibili.html">РџРµСЂРµР№С‚Рё</a>
                     </div>
                 </td>
                   
                  <td class="small_card" >
-                 <img alt="Изображение" src="images/Quatro.jpg"/>
+                 <img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Quatro.jpg"/>
                      <div class="content">
-                    <small>Представительский класс</small>
+                    <small>РџСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊСЃРєРёР№ РєР»Р°СЃСЃ</small>
                     <h2>Quattroporte</h2>
-                    <p>Maserati Quattroporte — спортивный полноразмерный седан класса люкс, которые изготовляются итальянской компанией Maserati с 1963</p>
-                    <a href="Quattroporte.html">Перейти</a>
+                    <p>Maserati Quattroporte вЂ” СЃРїРѕСЂС‚РёРІРЅС‹Р№ РїРѕР»РЅРѕСЂР°Р·РјРµСЂРЅС‹Р№ СЃРµРґР°РЅ РєР»Р°СЃСЃР° Р»СЋРєСЃ, РєРѕС‚РѕСЂС‹Рµ РёР·РіРѕС‚РѕРІР»СЏСЋС‚СЃСЏ РёС‚Р°Р»СЊСЏРЅСЃРєРѕР№ РєРѕРјРїР°РЅРёРµР№ Maserati СЃ 1963</p>
+                    <a href="Quattroporte.html">РџРµСЂРµР№С‚Рё</a>
                      </div>
                 </td>
                   
                   <td class="small_card" >
-                 <img alt="Изображение" src="images/Grand.jpg"/>
+                 <img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Grand.jpg"/>
                       <div class="content">
-                    <small>Купе</small>
+                    <small>РљСѓРїРµ</small>
                     <h2>GranTurismo</h2>
-                    <p>Maserati GranTurismo — автомобиль класса Гран Туризмо от итальянского производителя Maserati. Общественности был представлен в марте 2007 года на Женевском автосалоне.</p>
-                    <a href="GranTurismo.html">Перейти</a>
+                    <p>Maserati GranTurismo вЂ” Р°РІС‚РѕРјРѕР±РёР»СЊ РєР»Р°СЃСЃР° Р“СЂР°РЅ РўСѓСЂРёР·РјРѕ РѕС‚ РёС‚Р°Р»СЊСЏРЅСЃРєРѕРіРѕ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЏ Maserati. РћР±С‰РµСЃС‚РІРµРЅРЅРѕСЃС‚Рё Р±С‹Р» РїСЂРµРґСЃС‚Р°РІР»РµРЅ РІ РјР°СЂС‚Рµ 2007 РіРѕРґР° РЅР° Р–РµРЅРµРІСЃРєРѕРј Р°РІС‚РѕСЃР°Р»РѕРЅРµ.</p>
+                    <a href="GranTurismo.html">РџРµСЂРµР№С‚Рё</a>
                       </div>
                 </td>
               </tr>
               <tr>
                   <td class="big_card"  colspan="3">
-                  <img alt="Изображение" src="images/Form.png"/>
+                  <img alt="РР·РѕР±СЂР°Р¶РµРЅРёРµ" src="images/Form.png"/>
                         <form onsubmit="return false" action="Home/Lid" method="POST">
                             <fieldset>
-                                <legend>Оформление заказа</legend>
-                                <input type="text" name="Name" placeholder="Введите ваше имя" required/><br/>
-                                 <!--Тут ошибка-->
-                                <input type="tel" name="Tel" placeholder="Введите номер телефона в формате 8-ххх-ххх-хххх" required patern="8-[0-9]{3}-[0-9]{3}-[0-9]{4}"/><br/>
-                                <!--Тут ошибка-->
+                                <legend>РћС„РѕСЂРјР»РµРЅРёРµ Р·Р°РєР°Р·Р°</legend>
+                                <input type="text" name="Name" placeholder="Р’РІРµРґРёС‚Рµ РІР°С€Рµ РёРјСЏ" required/><br/>
+                                 <!--РўСѓС‚ РѕС€РёР±РєР°-->
+                                <input type="tel" name="Tel" placeholder="Р’РІРµРґРёС‚Рµ РЅРѕРјРµСЂ С‚РµР»РµС„РѕРЅР° РІ С„РѕСЂРјР°С‚Рµ 8-С…С…С…-С…С…С…-С…С…С…С…" required patern="8-[0-9]{3}-[0-9]{3}-[0-9]{4}"/><br/>
+                                <!--РўСѓС‚ РѕС€РёР±РєР°-->
                                 <select name="Car" required>
                                     <option value="Ghibili" >Ghibili</option>
                                     <option value="Quattroporte">Quattroporte</option>
